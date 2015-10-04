@@ -23,6 +23,6 @@
         android:layout_marginTop="135dp"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
-        android:textColor="@color/background_material_dark" />
+        android:textColor="#21ffe2" />
 
 </RelativeLayout>
