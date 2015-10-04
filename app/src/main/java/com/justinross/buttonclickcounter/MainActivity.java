@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
-            Toast toastMessage = Toast.makeText(this, "Text value is now " + ourMessage.getText(), Toast.LENGTH_LONG); //*gets* the value of the message and displays it on the screen
+            Toast toastMessage = Toast.makeText(this, "Text value is now " + ourMessage.getText(), Toast.LENGTH_LONG); //*gets* the value of the                message and displays it on the screen
             toastMessage.show();
             numTimesClicked = 0; //reset the counter
 
